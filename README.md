@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi Folks 👋
 
 <!--
 **chaynesm/chaynesm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Welcome to my profile. I'm a Research Data Librarian at [Hillman Library](https://library.pitt.edu/) at the University of Pittsburgh.
